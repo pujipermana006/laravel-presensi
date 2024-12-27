@@ -4,6 +4,7 @@ namespace App\Filament\Resources\ShiftResource\Pages;
 
 use App\Filament\Resources\ShiftResource;
 use Filament\Actions;
+use Filament\Actions\Action;
 use Filament\Resources\Pages\ListRecords;
 
 class ListShifts extends ListRecords
